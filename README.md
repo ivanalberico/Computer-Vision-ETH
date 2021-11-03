@@ -24,27 +24,27 @@ The projects cover the fundamental problems and techniques used to solve traditi
 
 #
 Condensation tracker example:
-https://user-images.githubusercontent.com/64502909/140106908-2019001c-d94f-4fa0-87df-1d505a0bd78b.mp4
-<br/><br/>  
-<br/><br/>  
+
+
+
+https://user-images.githubusercontent.com/64502909/140108194-b89a94ef-8ef9-4fa9-93f5-0142a10113e4.mp4
+
+
 
 
 #
 Image segmentation example:
 ![Screenshot from 2021-11-03 17-28-05](https://user-images.githubusercontent.com/64502909/140101930-4a07883b-162c-4338-80b5-3cd20408fd83.png)
 <br/><br/>  
-<br/><br/>  
 
 #
 Feature extraction and matching example:
 ![Screenshot from 2021-11-03 17-29-28](https://user-images.githubusercontent.com/64502909/140102779-e3d3ca9b-de04-4bbf-8aee-d4a9c88fb509.png)
 <br/><br/>  
-<br/><br/>  
 
 #
 Epipolar geometry (model fitting) example:
 ![Screenshot from 2021-11-03 17-32-34](https://user-images.githubusercontent.com/64502909/140102855-b69ba49e-53e7-4fd0-bdc4-9dc80db2bc83.png)
-<br/><br/>  
 <br/><br/>  
 
 #
