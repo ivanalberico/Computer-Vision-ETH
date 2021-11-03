@@ -1,0 +1,26 @@
+function [Fh, F] = fundamentalMatrix(x1s, x2s)
+
+    % setup equation
+    x1s = x1s';
+    x2s = x2s';
+    
+    A = [x2s(:,1).*x1s(:,1), ...
+         x2s(:,1).*x1s(:,2), ...
+         x2s(:,1).*x1s(:,3), ...
+         x2s(:,2).*x1s(:,1), ...
+         x2s(:,2).*x1s(:,2), ...
+         x2s(:,2).*x1s(:,3), ...
+         x2s(:,3).*x1s(:,1), ...
+         x2s(:,3).*x1s(:,2), ...
+         x2s(:,3).*x2s(:,3)];
+      
+    [U S V] = svd(A);
+    
+    F = reshape(V(:,end), [3, 3])';
+    
+    [U S V] = svd(F);
+    
+    S(3,3) = 0;
+    Fh = U*S*V';
+   
+end
