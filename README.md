@@ -25,7 +25,8 @@ The projects cover the fundamental problems and techniques used to solve traditi
 #
 Condensation tracker example:
 
-https://user-images.githubusercontent.com/64502909/140108194-b89a94ef-8ef9-4fa9-93f5-0142a10113e4.mp4
+https://user-images.githubusercontent.com/64502909/140112683-57448c38-3e55-4527-bf1f-9bc83e8df268.mp4
+
 
 
 
